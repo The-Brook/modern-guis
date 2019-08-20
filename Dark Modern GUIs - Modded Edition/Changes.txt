@@ -1,0 +1,28 @@
+(+++) > 70%
+(++) > 50%
+(+) < 50%
+
+[Version 1.0.0]
+ Initial Release
+ ! From now modded item and block textures in interfaces will stay in their base resolution
+ 
+ Changes from Dark Modded GUIs version 1.0.3 :
+ + Added full Iron Chests support
+	+ Added copper container GUI
+	+ Added diamond container GUI
+	+ Added dirt container GUI
+	+ Added gold container GUI
+	+ Added iron container GUI
+	+ Added silver container GUI
+ + Added new Just Enough Item support
+	+ Added button disabled texture
+	+ Added button enabled texture
+	+ Added button highlight texture
+	+ Added search background texture
+ + Added some Iron Backpacks support (+++)
+	+ Added JEI add upgrade GUI
+	+ Added JEI crafting grid GUI
+	+ Added JEI remove upgrade GUI
+	+ Added	backpack GUI
+	+ Added some widget textures
+ ~ changed palette

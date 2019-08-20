@@ -1,0 +1,94 @@
+(+++) > 70%
+(++) > 50%
+(+) < 50%
+
+[Version 1.0.4]
+ ! Split modded GUIs in a new resource pack
+ ^ downported to support 1.12 too (to remove the error, change pack format to 3)
+ ~ changed palette
+ ~ changed recipe book GUI
+ ~ changed world selection icons
+
+[Version 1.0.3]
+ ^ updated to 1.14.4 Minecraft version
+ ^ upgraded pack version to 4
+ + Added new images for Realms
+	+ Added adventure image
+	+ Added experience image
+	+ Added inspiration image
+	+ Added new world image
+	+ Added survival spawn image
+	+ Added upload image
+ + Added Realms news notification icons
+ + Added Realms link icons (from Faithful)
+ + Added Realms world icon (from Faithful)
+ + Added Realms slot frame icon
+ + Added recipe book button on crafting table
+ + Added accessibility button texture
+ + Added checkbox
+ + Added Blast Furnace GUI
+ + Added Smoker GUI
+ + Added Loom GUI
+ + Added Grindstone GUI
+ + Added Cartography Table GUI
+ + Added Stonecutter GUI
+ ~ changed advancements background to match with new textures (from Faithful)
+ ~ changed recipe book button
+ ~ changed scrollbar
+ ~ changed underwater overlay opacity
+ ~ changed items directory name to item
+ ~ fixed bottom creative tabs not being one pixel longer on the top when selected
+ ~ migrated mob effects icons to the new directory
+ ~ updated mob effects icon textures (from Faithful, some not done)
+ ~ updated villager GUI
+ ~ updated recipe book GUI
+ - removed useless pixels on the Beacon GUI texture
+
+[Version 1.0.2]
+ + Added full JEI support
+	+ Added vanilla GUI
+	+ Added recipe background GUI
+	+ Added recipe background tall GUI
+ + Added full Baubles support
+	+ Added expanded inventory GUI
+ + Added some (+++) Psi support
+	+ Added Signs
+	+ Added CAD Assembler GUI
+	+ Added Introduction GUI
+	+ Added leveling GUI
+	+ Added Programmer GUI
+	+ Added Psi Bar texture
+	+ Added Psi Bar Mask texture
+	+ Added Psi bar shatter texture
+	+ Added 45/122 spell textures
+ + Added some (++) Botania support
+	+ Added NEI blank texture
+	+ Added NEI brewery texture
+	+ Added Lexicon GUI
+ + Added some (+) Refined Storage support
+	+ Added some icons
+	+ Added advancements texture
+	+ Added Constructor GUI
+	+ Added Controller GUI
+ ~ Tweaked some textures
+
+[Version 1.0.1]
+ + Added recipe book GUI
+ + Added Minecraft Realms GUIs (icons not yet implemented)
+ + Added splashes
+ + Added full FML support
+	+ Added icon textures
+ + Added full Forge Support
+	+ Added version check texture
+ + Added some The Aether II support (+)
+	+ Added next arrow texture
+	+ Added Icestone Cooler GUI
+	+ Added Incubator GUI
+	+ Added up and down arrow textures
+	+ Added X button texture
+ ~ Fixed some GUIs
+ ~ Fixed spelling mistake
+ ~ Changed search bar
+
+[Version 1.0.0]
+Initial release
